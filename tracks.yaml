@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/system_modes-release
 tracks:
   crystal:
     actions:
