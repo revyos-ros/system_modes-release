@@ -1,3 +1,33 @@
+## system_modes (jazzy) - 0.9.0-7
+
+The packages in the `system_modes` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy system_modes --override-release-repository-push-url git@github.com:revyos-ros/system_modes-release` on `Mon, 24 Jun 2024 08:18:54 -0000`
+
+These packages were released:
+- `launch_system_modes`
+- `system_modes`
+- `system_modes_examples`
+- `system_modes_msgs`
+
+These packages were explicitly ignored:
+- `test_launch_system_modes`
+
+Version of package(s) in repository `system_modes`:
+
+- upstream repository: https://github.com/micro-ROS/system_modes.git
+- release repository: https://github.com/revyos-ros/system_modes-release.git
+- rosdistro version: `0.9.0-6`
+- old version: `0.9.0-6`
+- new version: `0.9.0-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## system_modes (rolling) - 0.9.0-3
 
 The packages in the `system_modes` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling system_modes` on `Sun, 05 Jun 2022 10:42:24 -0000`
